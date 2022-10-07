@@ -1,2 +1,4 @@
 Just some notes about this repo
 Just testing some simple file create, edit, commit
+
+adding some notes in the first_child branch
